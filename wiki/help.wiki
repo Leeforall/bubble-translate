@@ -1,6 +1,4 @@
 #labels Featured
-#Help.
-
 = Introduction =
 
 Add your content here.
