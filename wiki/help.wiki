@@ -7,7 +7,8 @@ Preferences window: <br>
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Language:
+  * Select your language, the selected text will be automatically translated into your language.
+
+Controls:
+  * Toolstrip click. Select the action to do when click the Toolstrip Icon.
