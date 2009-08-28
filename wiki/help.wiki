@@ -12,4 +12,9 @@ Language:
 
 Controls:
   * *Toolstrip click*. Select the action to do when click the Toolstrip Icon.
-  * *Hide Toolstrip*. Not implemented jet.
+  * *Hide Toolstrip*. Not yet implemented.
+
+Shortcut:
+  * Select the Shortcut keys for translate without Toolstrip click.
+
+You can use the Shortcut way and the Toolstrip click Preferences selected simultaneously.
