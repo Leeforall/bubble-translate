@@ -8,7 +8,7 @@ Preferences window: <br>
 = Details =
 
 Language:
-  * Select your language, the selected text will be automatically translated into your language.
+  * <h1>Select your language</h1>, the selected text will be automatically translated into your language.
 
 Controls:
   * Toolstrip click. Select the action to do when click the Toolstrip Icon.
