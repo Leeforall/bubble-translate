@@ -14,7 +14,9 @@ Controls:
   * *Toolstrip click*. Select the action to do when click the Toolstrip Icon.
   * *Hide Toolstrip*. Not yet implemented.
 
+When *Toolstrip click Translate Text* is selected for access the Preferences window just Ctrl+Click the Toolstrip.
+
 Shortcut:
   * Select the Shortcut keys for translate without Toolstrip click.
 
-You can use the Shortcut way and the Toolstrip click Preferences selected simultaneously.
+You can use the *Shortcut* way and the *Toolstrip click* Preferences selected simultaneously.
