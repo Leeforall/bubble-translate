@@ -12,3 +12,4 @@ Language:
 
 Controls:
   * *Toolstrip click*. Select the action to do when click the Toolstrip Icon.
+  * *Hide Toolstrip*. Not implemented jet.
