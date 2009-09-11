@@ -2,7 +2,7 @@
 = Introduction =
 
 Preferences window: <br>
-[http://sites.google.com/site/bubbletranslate/screen4.png]
+[http://sites.google.com/site/bubbletranslate/BubbleTranslate1.png]
 
 
 = Details =
@@ -10,7 +10,7 @@ Preferences window: <br>
 Language:
   * *Select your language*, the selected text will be automatically translated into your language.
 
-Controls:
+Toolstrip:
   * *Toolstrip click*. Select the action to do when click the Toolstrip Icon.
   * *Hide Toolstrip*. Not yet implemented.
 
@@ -18,5 +18,8 @@ When *Toolstrip click Translate Text* is selected for access the Preferences win
 
 Shortcut:
   * Select the Shortcut keys for translate without Toolstrip click.
+
+Theme:
+  * Select Toolstrip and Font colors.
 
 You can use the *Shortcut* way and the *Toolstrip click* Preferences selected simultaneously.
