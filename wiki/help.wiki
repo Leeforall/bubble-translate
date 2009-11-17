@@ -11,15 +11,15 @@ Language:
   * *Select your language*, the selected text will be automatically translated into your language.
 
 Toolstrip:
-  * *Toolstrip click*. Select the action to do when click the Toolstrip Icon.
-  * *Hide Toolstrip*. Not yet implemented.
+  * *Icon click*. Select the action to do when click the Bubble Translate Icon.
+  * *Hide Icon*. Hide the Bubble Translate Icon from the Toolbar.
 
-When *Toolstrip click Translate Text* is selected for access the Preferences window just Ctrl+Click the Toolstrip.
+When *Toolstrip click Translate Text* is selected for access the Preferences window just go to chrome://extensions/.
 
 Shortcut:
-  * Select the Shortcut keys for translate without Toolstrip click.
+  * Select the Shortcut keys for translate without Icon click.
 
 Theme:
-  * Select Toolstrip and Font colors.
+  * Select Toolstrip Bubble and Font colors.
 
-You can use the *Shortcut* way and the *Toolstrip click* Preferences selected simultaneously.
+You can use the *Shortcut* way and the *Icon click* Preferences selected simultaneously.
