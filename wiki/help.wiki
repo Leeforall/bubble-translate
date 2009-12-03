@@ -2,7 +2,7 @@
 = Introduction =
 
 Preferences window: <br>
-[http://sites.google.com/site/bubbletranslate/BubbleTranslate1.png]
+[http://sites.google.com/site/bubbletranslate/options.png]
 
 
 = Details =
