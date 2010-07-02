@@ -1,25 +1,32 @@
 #labels Featured
+<wiki:toc max_depth="2" />
+
 = Introduction =
 
-Preferences window: <br>
-[http://sites.google.com/site/bubbletranslate/options.png]
+INTRODUCTION
 
+== Features ==
 
-= Details =
+FEATURES
 
-Language:
-  * *Select your language*, the selected text will be automatically translated into your language.
+= Usage =
 
-Toolstrip:
-  * *Icon click*. Select the action to do when click the Bubble Translate Icon.
-  * *Hide Icon*. Hide the Bubble Translate Icon from the Toolbar.
+USAGE
 
-When *Toolstrip click Translate Text* is selected for access the Preferences window just go to chrome://extensions/.
+== Inline Translation ==
+== Web page Translation ==
+== Real-Time Translation ==
 
-Shortcut:
-  * Select the Shortcut keys for translate without Icon click.
+= Preferences =
 
-Theme:
-  * Select Toolstrip Bubble and Font colors.
+PREFERENCES
 
-You can use the *Shortcut* way and the *Icon click* Preferences selected simultaneously.
+== General ==
+
+GENERAL
+
+== Theme ==
+
+THEME
+
+= Report Issue =
