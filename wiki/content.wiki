@@ -3,6 +3,5 @@
     * [help#Usage Usage]
     * [help#Preferences Preferences]
     * [help#Report_Issue Report issue]
-  * [DOMReference DOM reference]
-  * [HTMLElements HTML reference]
-  * [CSSReference CSS reference]
+  * [screenshots Screenshots]
+  * [releases Releases]
