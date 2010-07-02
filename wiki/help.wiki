@@ -20,12 +20,13 @@ Bubble Translate use [http://translate.google.com/ Google Translate] for inline 
 = Usage =
 
 == Inline Translation ==
-
+[http://sites.google.com/site/bubbletranslate/inline-translation.png] <br>
 
 
 == Web page Translation ==
 
-If you want you can translate the whole page with Google Translation bar
+If you want you can translate the whole page with Google Translation bar.
+[http://sites.google.com/site/bubbletranslate/webpagetranslation.png] <br>
 
 == Real-Time Translation ==
 
