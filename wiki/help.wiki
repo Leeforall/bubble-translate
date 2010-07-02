@@ -22,20 +22,23 @@ Bubble Translate use [http://translate.google.com/ Google Translate] for inline 
 == Inline Translation ==
 Translate a selection of text inside any web page and view the result without leaving the website.
 
-<br> [http://sites.google.com/site/bubbletranslate/inline-translation.png] <br>
+[http://sites.google.com/site/bubbletranslate/inline-translation.png] <br>
 
 
 == Web page Translation ==
 
 If you want you can translate the whole page with Google Translation bar.
+
 [http://sites.google.com/site/bubbletranslate/webpagetranslation.png] <br>
 
 == Real-Time Translation ==
 
 Translate text in Real time, just start typing and the translated text is showed at the bottom in the select language.
+
 [http://sites.google.com/site/bubbletranslate/realtime-translation.png] <br>
 
 If you type one word and have a entry in Google Dictionary you can see the description.
+
 [http://sites.google.com/site/bubbletranslate/realtime-dictionary.png] <br>
 
 = Preferences =
