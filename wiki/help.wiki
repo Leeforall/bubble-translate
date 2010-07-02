@@ -31,3 +31,5 @@ Bubble Translate use [http://translate.google.com/ Google Translate] for inline 
 [http://sites.google.com/site/bubbletranslate/preferences-theme.png] <br>
 
 = Report Issue =
+
+Befor report a issue make sure that not appear in the [http://code.google.com/p/bubble-translate/issues/list Issue list]
