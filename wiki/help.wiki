@@ -30,8 +30,10 @@ If you want you can translate the whole page with Google Translation bar
 == Real-Time Translation ==
 
 Translate text in Real time, just start typing and the translated text is showed at the bottom in the select language.
+[http://sites.google.com/site/bubbletranslate/realtime-translation.png] <br>
 
 If you type one word and have a entry in Google Dictionary you can see the description.
+[http://sites.google.com/site/bubbletranslate/realtime-dictionary.png] <br>
 
 = Preferences =
 
