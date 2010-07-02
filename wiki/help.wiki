@@ -5,7 +5,7 @@
 
 A translator extension for Google Chrome.
 You can translate text of websites from any language to yours.
-Bubble Translate use [http://translate.google.com/ Google Translate] for inline translations.
+Bubble Translate use [http://translate.google.com/ Google Translate] for inline and Real-Time translations.
 
 == Features ==
 
