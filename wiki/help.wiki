@@ -3,15 +3,9 @@
 
 = Introduction =
 
-INTRODUCTION
-
 == Features ==
 
-FEATURES
-
 = Usage =
-
-USAGE
 
 == Inline Translation ==
 == Web page Translation ==
@@ -19,14 +13,7 @@ USAGE
 
 = Preferences =
 
-PREFERENCES
-
 == General ==
-
-GENERAL
-
 == Theme ==
-
-THEME
 
 = Report Issue =
