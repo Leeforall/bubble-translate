@@ -1,5 +1,5 @@
   * [help Help]
-    * [ArticlesXSS Web security]
+    * [help#Introduction Introduction]
     * [ArticlesDom DOM manipulation]
     * [ArticlesStyle CSS and style]
     * [ArticlesTips Tips and tricks]
