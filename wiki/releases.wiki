@@ -6,6 +6,7 @@
   * Added right to left text suport.
   * Added multiple language shortcuts.
   * Added Real-Time language switch.
+  * Added Real-Time dictionary.
   * Added line breaks to result box.
   * Fixed aplly changes without reload page.
   * Fixed Real-time delay.
