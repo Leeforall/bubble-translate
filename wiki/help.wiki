@@ -28,6 +28,8 @@ Bubble Translate use [http://translate.google.com/ Google Translate] for inline 
 = Preferences =
 
 == General ==
+[http://sites.google.com/site/bubbletranslate/preferences-general.png] <br>
 == Theme ==
+[http://sites.google.com/site/bubbletranslate/preferences-theme.png] <br>
 
 = Report Issue =
