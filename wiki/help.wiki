@@ -3,7 +3,21 @@
 
 = Introduction =
 
+A translator extension for Google Chrome.
+You can translate text of websites from any language to yours.
+Bubble Translate use [http://translate.google.com/ Google Translate] for inline translations.
+
 == Features ==
+
+  * Real-time translation <font color="red">new</font>.
+  * Popup menu <font color="red">new</font>.
+  * Full website translation <font color="red">new</font>.
+  * Hide Icon Option.
+  * Multi-language.
+  * Customization: Themes and Shortcuts.
+  * Works on secure pages (https).
+  * Auto-updates.
+  * Onmibox icon.
 
 = Usage =
 
