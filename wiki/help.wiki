@@ -23,6 +23,10 @@ Bubble Translate use [http://translate.google.com/ Google Translate] for inline 
 == Web page Translation ==
 == Real-Time Translation ==
 
+Translate text in Real time, just start typing and the translate text appear at the bottom in the select language.
+
+If you type one word and have entry in Google Dictionary you can see the description.
+
 = Preferences =
 
 == General ==
