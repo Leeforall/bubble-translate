@@ -1,5 +1,5 @@
 #labels Featured
-#sidebar TableOfContents
+#sidebar help
 
 
 <wiki:toc max_depth="2" />
