@@ -18,7 +18,7 @@ v1.5
   * Change bubble ID to unique.
 
 v1.2
-  * Fixed PageAction error, now used BrowserAction.
+  * Fixed Page Action error, now used Browser Action.
 
 v1.1
   * Added new autoupdate URL.
@@ -35,7 +35,7 @@ v0.4.4
   * Fixed Google Reader position.
   * Fixed Acid3test.
   * Fixed Lenguages issues.
-  * Added PageActions for 'Hide Icon' Option.
+  * Added Page Actions for 'Hide Icon' Option.
 
 v0.4.1
   * Fixed critical issues with Toolbar Icon.
