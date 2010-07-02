@@ -32,4 +32,6 @@ Bubble Translate use [http://translate.google.com/ Google Translate] for inline 
 
 = Report Issue =
 
-Befor report a issue make sure that not appear in the [http://code.google.com/p/bubble-translate/issues/list Issue list]
+Before report a issue make sure that not appear in the [http://code.google.com/p/bubble-translate/issues/list Issue list]
+
+Go to the [http://code.google.com/p/bubble-translate/issues/entry Issue form] and specify the error, remember to be specific and describe your operating system and version of Chrome.
