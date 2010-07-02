@@ -9,15 +9,13 @@ Bubble Translate use [http://translate.google.com/ Google Translate] for inline 
 
 == Features ==
 
-  * Real-time translation <font color="red">new</font>.
-  * Popup menu <font color="red">new</font>.
-  * Full website translation <font color="red">new</font>.
-  * Hide Icon Option.
-  * Multi-language.
+  * Inline translation of text.
+  * Real-time Translations and Dictionary <font color="red">new</font>.
+  * Full website translation.
+  * Multiples shortcuts with differents languages <font color="red">new</font>.
   * Customization: Themes and Shortcuts.
-  * Works on secure pages (https).
-  * Auto-updates.
-  * Onmibox icon.
+  * Hide Icon Option <font color="red">new</font>.
+  * Popup menu.
 
 = Usage =
 
