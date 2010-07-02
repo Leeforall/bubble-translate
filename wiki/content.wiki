@@ -1,1 +1,1 @@
-[WikiSyntax#help]
+[help]
