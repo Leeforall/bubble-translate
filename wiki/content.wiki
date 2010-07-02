@@ -1,4 +1,4 @@
-  * [help HOWTO help]
+  * [help Help]
     * [ArticlesXSS Web security]
     * [ArticlesDom DOM manipulation]
     * [ArticlesStyle CSS and style]
