@@ -18,6 +18,7 @@ Bubble Translate use [http://translate.google.com/ Google Translate] for inline 
   * Popup menu.
 
 = Usage =
+[http://sites.google.com/site/bubbletranslate/popup.png] <br>
 
 == Inline Translation ==
 Translate a selection of text inside any web page and view the result without leaving the website.
