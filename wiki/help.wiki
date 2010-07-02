@@ -33,5 +33,3 @@ Bubble Translate use [http://translate.google.com/ Google Translate] for inline 
 [http://sites.google.com/site/bubbletranslate/preferences-theme.png] <br>
 
 = Report Issue =
-
-#sidebar content
