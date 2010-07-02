@@ -20,6 +20,7 @@ Bubble Translate use [http://translate.google.com/ Google Translate] for inline 
 = Usage =
 
 == Inline Translation ==
+Translate a selection of text inside any web page and view the result without leaving the website.
 [http://sites.google.com/site/bubbletranslate/inline-translation.png] <br>
 
 
