@@ -1,4 +1,3 @@
-#labels Featured
 = Inline translation =
 [http://sites.google.com/site/bubbletranslate/main.png] <br>
 
