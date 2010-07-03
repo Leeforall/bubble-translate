@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary ChangeLog of all versions.
 #labels Featured
 
 *v1.5*
