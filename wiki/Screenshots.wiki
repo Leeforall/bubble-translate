@@ -1,13 +1,26 @@
 #summary One-sentence summary of this page.
+#labels Featured
 
-= Introduction =
+= Inline translation =
+[http://sites.google.com/site/bubbletranslate/main.png] <br>
 
-Add your content here.
+= Popup menu =
+[http://sites.google.com/site/bubbletranslate/popup.png] <br>
 
+= Real-time translation =
+[http://sites.google.com/site/bubbletranslate/realtime-translation.png] <br>
 
-= Details =
+= Real-time dictionary =
+[http://sites.google.com/site/bubbletranslate/realtime-dictionary.png] <br>
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Full web page translation =
+[http://sites.google.com/site/bubbletranslate/webpagetranslation.png] <br>
+
+= Preferences - General =
+[http://sites.google.com/site/bubbletranslate/preferences-general.png] <br>
+
+= Preferences - Theme =
+[http://sites.google.com/site/bubbletranslate/preferences-theme.png] <br>
+
+= Copy text from Bubble =
+[http://sites.google.com/site/bubbletranslate/copytext.png] <br>
