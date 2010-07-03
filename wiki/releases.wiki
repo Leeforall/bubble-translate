@@ -1,4 +1,3 @@
-#labels Featured
 *v1.5*
   * Added 'Hide Icons' option.
   * Added custom fonts and bubble opacity.
