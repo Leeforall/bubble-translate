@@ -18,9 +18,9 @@ Bubble Translate use [http://translate.google.com/ Google Translate] for inline 
   * Popup menu.
 
 = Usage =
-It is simple, use the popup menu to access the different functions or simply select the text and use the shortcuts to translate inline to multimples languages.
+It is simple, use the popup menu to access the different functions or simply select the text and use the shortcuts to make inline translations to multimples languages.
 
-You can configure Bubble Translate to hide the icon in your addres bar for just use shortcuts or specify the funcition when you click the icon.
+You can configure Bubble Translate to hide the icon in your addres bar and simply use shortcuts OR specify the function when you click the icon.
 
 [http://sites.google.com/site/bubbletranslate/popup.png] <br>
 
