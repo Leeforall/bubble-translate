@@ -1,4 +1,4 @@
-#summary ChangeLog of all versions.
+#summary Change Log of all versions.
 #labels Featured
 
 *v1.5*
